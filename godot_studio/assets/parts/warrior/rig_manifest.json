@@ -1,0 +1,106 @@
+{
+  "canvas_size": [
+    1150,
+    1070
+  ],
+  "web_canvas_size": [
+    632,
+    588
+  ],
+  "web_scale": 0.55,
+  "parts_order": [
+    "cape.png",
+    "leg_l.png",
+    "leg_r.png",
+    "body.png",
+    "right_arm_sword.png",
+    "head.png",
+    "left_arm_shield.png"
+  ],
+  "pivots": {
+    "root_feet": [
+      685,
+      995
+    ],
+    "pelvis": [
+      685,
+      710
+    ],
+    "spine": [
+      690,
+      585
+    ],
+    "chest": [
+      695,
+      470
+    ],
+    "neck": [
+      705,
+      375
+    ],
+    "shoulder_r": [
+      540,
+      445
+    ],
+    "elbow_r": [
+      480,
+      565
+    ],
+    "hand_r": [
+      468,
+      688
+    ],
+    "sword_tip": [
+      62,
+      975
+    ],
+    "shoulder_l": [
+      835,
+      435
+    ],
+    "elbow_l": [
+      870,
+      565
+    ],
+    "hand_l": [
+      945,
+      650
+    ],
+    "hip_r": [
+      588,
+      765
+    ],
+    "knee_r": [
+      585,
+      868
+    ],
+    "foot_r": [
+      565,
+      995
+    ],
+    "hip_l": [
+      785,
+      765
+    ],
+    "knee_l": [
+      805,
+      862
+    ],
+    "foot_l": [
+      818,
+      975
+    ],
+    "cape_1": [
+      520,
+      485
+    ],
+    "cape_2": [
+      375,
+      575
+    ],
+    "cape_3": [
+      210,
+      560
+    ]
+  }
+}

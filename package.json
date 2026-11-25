@@ -1,0 +1,24 @@
+{
+  "name": "rpg-warrior-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal 2.5D Warrior RPG web demo powered by diablo-109b-engine, concept-asset-studio, and godot4-game-studio.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "build:single": "tsc --noEmit && SINGLE_FILE=1 vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "diablo-109b-engine": "file:/home/slalglel/rpg-engine"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^5.4.21",
+    "vite-plugin-singlefile": "^2.0.3",
+    "vitest": "^2.1.8"
+  }
+}
